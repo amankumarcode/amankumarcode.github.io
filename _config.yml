@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Aman Kumar # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  Data Scientist with 2+ years of experience in Analytics, Natural Language Processing, Machine Learning and Computer Vision.
   <br><br>
-  Second description 
+  Master's in Data Science Graduate from University of Pennsylvania (IVY League) 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/amankumar36/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
