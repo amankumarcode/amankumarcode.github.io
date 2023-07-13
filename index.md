@@ -13,7 +13,7 @@ This project involved creating a machine learning model to detect hate speech in
 The aim of this project was to detect hate speech in tweets and evaluate the detection capabilities on different platforms like Wikipedia and Reddit. As hate speech has become a serious issue on social media platforms, it's important to have effective tools for detecting such content.
 
 
-<img src="images/hatespeech.jpg?raw=true" width="500" />
+<img src="images/hatespeech.jpg?raw=true" width="300" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
