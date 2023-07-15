@@ -10,7 +10,8 @@ This project involved developing a machine learning application to forecast the 
 
 <img src="images/stock_market.png?raw=true" width="300" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#) [![](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)](#)
+
 
 [View code on Colab](https://colab.research.google.com/drive/17QsMwJa1iUUcqNm6eo0RytCMvDJkstbO?usp=sharing)
 
