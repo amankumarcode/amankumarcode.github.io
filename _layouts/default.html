@@ -3,16 +3,22 @@
   <head>
     <style>
       body {
-        background-color: #C8D5B9; /* This is light blue; replace with any color you prefer */
+        background-color: #C8D5B9;
       }
-      
+    
       header {
         position: fixed;
         width: 30%;
         height: 100%;
         overflow: auto;
+        scrollbar-width: none; /* For Firefox */
+        -ms-overflow-style: none;  /* For Internet Explorer and Edge */
       }
-
+    
+      header::-webkit-scrollbar {
+        width: 0px;  /* For Chrome, Safari, and Opera */
+      }
+    
       section {
         margin-left: 30%;
         overflow: auto;
