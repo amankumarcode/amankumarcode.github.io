@@ -20,6 +20,8 @@ This project developed a robust entity matching system employing fuzzy matching 
 
 [View Code On Colab](https://colab.research.google.com/drive/1t5MmouTBZmaAR1MF1rUmaGd7kn3KIbRZ?usp=sharing)
 
+---
+
 ### Forecasting Stock Market Closing Values Using LSTM
 
 <p align="justify">
@@ -35,6 +37,7 @@ This project involved developing a machine learning application to forecast the 
 
 [View Code On Colab](https://colab.research.google.com/drive/17QsMwJa1iUUcqNm6eo0RytCMvDJkstbO?usp=sharing)
 
+---
 
 ### Cross-Domain Hate Speech Detection using Large Language Models
 
