@@ -1,12 +1,11 @@
 title: Aman Kumar # your name (or website title) here
 logo: "/images/Aman_Kumar.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- <ul>
-  <li> Data Scientist with 2+ years of experience in Analytics, Natural Language Processing, Machine Learning, and Computer Vision.
-  <li> Research Assistant (RA) at University of Pennsylvania (UPenn) Computer and Information Science Department.
-  <li> RA at Wharton School of the University of Pennsylvania Management Department.
-  <li> Head Teaching Assistant (TA) for course CIS 5450 Big Data Analytics.  
- </ul>
+ <p align="justify">
+  Data Scientist with 2+ years of experience in Analytics, Natural Language Processing, Machine Learning, and Computer Vision.Research Assistant 
+  (RA) at University of Pennsylvania (UPenn) Computer and Information Science Department.RA at Wharton School of the University of Pennsylvania 
+  Management Department. Head Teaching Assistant (TA) for course CIS 5450 Big Data Analytics.  
+ </p>
   <br>
   Master's in Data Science Graduate from University of Pennsylvania.
   <br><br>
